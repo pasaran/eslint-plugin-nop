@@ -6,7 +6,7 @@
     },
     "name": "eslint-plugin-nop",
     "description": "ESLint rules and config for my codestyle",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "homepage": "https://github.com/pasaran/eslint-plugin-nop",
     "repository": {
         "type": "git",
@@ -18,6 +18,8 @@
     "main": "lib/index.js",
     "engines": {
         "node": "*"
+    },
+    "devDependencies": {
+        "eslint": "^5.15.1"
     }
 }
-
