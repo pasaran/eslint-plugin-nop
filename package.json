@@ -6,7 +6,7 @@
     },
     "name": "eslint-plugin-nop",
     "description": "ESLint rules and config for my codestyle",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "homepage": "https://github.com/pasaran/eslint-plugin-nop",
     "repository": {
         "type": "git",
